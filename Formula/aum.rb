@@ -1,8 +1,8 @@
 class Aum < Formula
   desc "Terminal monitor for AI coding-agent token usage"
   homepage "https://github.com/7samael7/agent-usage-monitor"
-  url "https://github.com/7samael7/agent-usage-monitor/archive/refs/tags/v0.1.4.tar.gz"
-  sha256 "ae9f16cdb39642fdddcc57d2c9a0ba0bf3ccc2528ddd8a65bcad64ee8504f64c"
+  url "https://github.com/7samael7/agent-usage-monitor/archive/refs/tags/v0.1.8.tar.gz"
+  sha256 "cd51fb4cde6cda889945889518030004637a9f929a76b0658aa639c3821b0394"
   license "MIT"
   head "https://github.com/7samael7/agent-usage-monitor.git", branch: "main"
 
